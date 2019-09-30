@@ -20,7 +20,7 @@ Si no sos principiante es una buena oportunidad para participar y ayudar a los q
 
 ## ¿Cuándo y dónde?
 
-Sábado 26 de Octubre. Raúl Scalabrini Ortíz 582, 1C.
+Scalabrini Ortiz 582, 1er Piso, oficina 114.
 
 ## Agenda
 
