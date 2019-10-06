@@ -20,7 +20,8 @@ Si no sos principiante es una buena oportunidad para participar y ayudar a los q
 
 ## ¿Cuándo y dónde?
 
-Scalabrini Ortiz 582, 1er Piso, oficina 114.
+ - Sábado 26 de Octubre 2019, 15 hs.
+ - Scalabrini Ortiz 582, 1er Piso, oficina 114.
 
 ## Agenda
 
