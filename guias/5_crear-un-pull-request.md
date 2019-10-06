@@ -14,9 +14,9 @@ Si no conocen ningún proyecto, pueden buscar [acá](https://github.com/search?q
 
 Algunos proyectos tienen una guía explicando de qué forma deben contribuir.
 
-Quizás tengan que seguir ciertas reglas para nombrar cambios, o [crear una rama](#) para subir el cambio, etc.
+Quizás tengan que seguir ciertas reglas para nombrar cambios, o [crear una rama](/guias/6_ramas.md) para subir el cambio, etc.
 
-### 2) [Clonar el repositorio](/guias/clonando-un-repositorio.md)
+### 2) [Clonar el repositorio](/guias/3_clonando-un-repositorio.md)
 
 ### 3) [Hacer un cambio](/haciendo-cambios.md)
 

@@ -40,4 +40,4 @@ Entonces podemos decir que es distribuido porque se trabaja en distintas partes,
 
 ---
 
-Les recomiendo seguir con algo práctico: [Clonando un repositorio](/guias/clonando-un-repositorio.md).
+Les recomiendo seguir con algo práctico: [Clonando un repositorio](/guias/3_clonando-un-repositorio.md).

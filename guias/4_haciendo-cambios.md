@@ -2,7 +2,7 @@
 
 Para empezar primero necesitamos un repositorio en nuestra cuenta. No importa que sea uno clonado, o que lo hayamos creado nosotros.
 
-Si no lo tienen, pueden ver la guía de [cómo clonar un repositorio](/guias/clonando-un-repositorio.md) o la de [cómo crear un repositorio](/guias/creando-un-repositorio.md).
+Si no lo tienen, pueden ver la guía de [cómo clonar un repositorio](/guias/3_clonando-un-repositorio.md) o la de [cómo crear un repositorio](/guias/2_creando-un-repositorio.md).
 
 ## Pasos: Modificar un archivo
 
@@ -48,4 +48,4 @@ Para crear una carpeta, en el nombre tienen que poner una `/`, la carpeta se cre
 
 ---
 
-Ahora que sabemos cómo modificar archivos, podemos [hacer PRs](/guias/crear-un-pull-request.md).
+Ahora que sabemos cómo modificar archivos, podemos [hacer PRs](/guias/5_crear-un-pull-request.md).
