@@ -48,4 +48,4 @@ Para crear una carpeta, en el nombre tienen que poner una `/`, la carpeta se cre
 
 ---
 
-Ahora que sabemos cómo modificar archivos, podemos [hacer PRs](#).
+Ahora que sabemos cómo modificar archivos, podemos [hacer PRs](/guias/crear-un-pull-request.md).
