@@ -1,4 +1,4 @@
-# Creando un repositorio
+# Creando un repositorio en GitHub
 
 ## Pasos
 
@@ -22,4 +22,4 @@ Tan simple como eso. Si hicieron todo bien deberían ver una pantalla como esta.
 
 ---
 
-Ahora que tenemos el repo en nuestra cuenta, podemos [hacerle cambios](/guias/4_haciendo-cambios.md).
+Ahora que tenemos el repo en nuestra cuenta, podemos [hacerle cambios](/guias/4_haciendo-cambios-en-github.md).

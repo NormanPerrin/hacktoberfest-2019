@@ -1,4 +1,4 @@
-# Crear un Pull Request
+# Crear un Pull Request en GitHub
 
 Un ***Pull Request*** es una forma de crear una contribución (o cambio), a un proyecto.
 
@@ -14,11 +14,11 @@ Si no conocen ningún proyecto, pueden buscar [acá](https://github.com/search?q
 
 Algunos proyectos tienen una guía explicando de qué forma deben contribuir.
 
-Quizás tengan que seguir ciertas reglas para nombrar cambios, o [crear una rama](/guias/6_ramas.md) para subir el cambio, etc.
+Quizás tengan que seguir ciertas reglas para nombrar cambios, o [crear una rama](/guias/6_ramas-en-github.md) para subir el cambio, etc.
 
-### 2) [Clonar el repositorio](/guias/3_clonando-un-repositorio.md)
+### 2) [Clonar el repositorio](/guias/3_clonando-un-repositorio-en-github.md)
 
-### 3) [Hacer un cambio](/haciendo-cambios.md)
+### 3) [Hacer un cambio](/guias/haciendo-cambios-en-github.md)
 
 Una vez que llegamos a confirmar un cambio en el repositorio que tenemos en nuestra cuenta, podemos hacer la contribución, comparando nuestro repositorio que tiene el cambio, con el repositorio original.
 

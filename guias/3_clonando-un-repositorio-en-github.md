@@ -1,4 +1,4 @@
-# Clonando un repositorio
+# Clonando un repositorio en GitHub
 
 Si queremos modificar el contenido de un repositorio de otro usuario, no podemos hacerlo directamente. Tendrías que clonarnos su repositorio a nuestra cuenta, así desde nuestra cuenta estamos autorizados a hacerle cambios.
 
@@ -30,4 +30,4 @@ Ahora le podemos hacer modificaciones sin problemas, ya que está en nuestra cue
 
 ---
 
-Ahora que tenemos el repo en nuestra cuenta, podemos [hacerle cambios](/guias/haciendo-cambios.md).
+Ahora que tenemos el repo en nuestra cuenta, podemos [hacerle cambios](/guias/haciendo-cambios-en-github.md).

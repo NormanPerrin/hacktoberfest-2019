@@ -14,9 +14,9 @@ Funcionamiento GitHub:
 
 ![Funcionamiento GitHub](/recursos/github-flow.png)
 
-En esta imagen, podemos que Norman, Mariana y Josefina tienen una copia de un mismo repositorio.
+En esta imagen, podemos que Norman, Mariana y Josefina tienen una copia de un mismo repositorio en sus computadoras (también podrían hacerse una copia en su cuenta de GitHub).
 
-Una vez descargado en sus computadoras, pueden modificar el contenido del repositorio como quieran. Luego, pueden subir los cambios que hayan hecho al repositorio original, para que las otras personas trabajando en ese proyecto, puedan acceder de una forma fácil a los cambios.
+Una vez copiado el repositorio a su cuenta o computadora, pueden modificar el contenido del mismo como quieran. Luego, pueden subir los cambios que hayan hecho al repositorio original, para que las otras personas trabajando en ese proyecto, puedan acceder de una forma fácil a los cambios.
 
 ### Repositorio remoto
 
@@ -40,4 +40,4 @@ Entonces podemos decir que es distribuido porque se trabaja en distintas partes,
 
 ---
 
-Les recomiendo seguir con algo práctico: [Clonando un repositorio](/guias/3_clonando-un-repositorio.md).
+Les recomiendo seguir con algo práctico: [Clonando un repositorio](/guias/3_clonando-un-repositorio-en-github.md).
