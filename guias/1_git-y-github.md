@@ -14,17 +14,19 @@ Funcionamiento GitHub:
 
 ![Funcionamiento GitHub](/recursos/github-flow.png)
 
-En esta imagen, podemos que Norman, Mariana y Josefina tienen una copia de un mismo repositorio en sus computadoras (también podrían hacerse una copia en su cuenta de GitHub).
+Para empezar, podemos definir a un **repositorio** como un directorio, puede contener archivos y otros directorios.
 
-Una vez copiado el repositorio a su cuenta o computadora, pueden modificar el contenido del mismo como quieran. Luego, pueden subir los cambios que hayan hecho al repositorio original, para que las otras personas trabajando en ese proyecto, puedan acceder de una forma fácil a los cambios.
+En esta imagen, podemos ver que Norman, Mariana y Josefina tienen una copia de un mismo repositorio en sus computadoras (también podrían hacerse una copia en su cuenta de GitHub).
+
+Una vez copiado el repositorio a su cuenta o computadora, pueden modificar el contenido del mismo como quieran. Luego, pueden subir los cambios que hayan hecho al repositorio original, para que las otras personas trabajando en ese proyecto puedan acceder de una forma fácil a los cambios.
 
 ### Repositorio remoto
 
-Es el repositorio que se usa como referente de todas las copias, al que se le subirían todas las mejoras, y del que se harían las copias locales.
+Es el repositorio que se usa como referente de todas las copias, al que se le subirían todas las mejoras, y del que se harían las copias.
 
-Al trabajar cada uno localmente, para avisar de cambios a otras personas, todos suben cambios a un repositorio **central**, de esta forma, solo hay que tener conocimiento del repositorio central, y no de todas las otras copias que pueda haber.
+Al trabajar cada uno localmente, para avisar de cambios a otras personas, todos suben sus cambios a un repositorio **central**, de esta forma, solo hay que tener conocimiento del repositorio central, y no de todas las otras copias que pueda haber.
 
-Actualmente hay algunas plataformas, como GitHub, la cual nos permite crear repositorios públicos.
+Actualmente hay algunas plataformas, como GitHub, la cual nos permite crear estosrepositorios.
 
 ### Repositorio local
 
