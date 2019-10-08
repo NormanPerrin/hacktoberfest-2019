@@ -30,4 +30,4 @@ Ahora le podemos hacer modificaciones sin problemas, ya que está en nuestra cue
 
 ---
 
-Ahora que tenemos el repo en nuestra cuenta, podemos [hacerle cambios](/guias/haciendo-cambios-en-github.md).
+Ahora que tenemos el repo en nuestra cuenta, podemos [hacerle cambios](/guias/4_haciendo-cambios-en-github.md).

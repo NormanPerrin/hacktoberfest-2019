@@ -2,7 +2,7 @@
 
 Para empezar primero necesitamos un repositorio en nuestra cuenta. No importa que sea uno clonado, o que lo hayamos creado nosotros.
 
-Si no lo tienen, pueden ver la guía de [cómo clonar un repositorio](/guias/3_clonando-un-repositorio.md) o la de [cómo crear un repositorio](/guias/2_creando-un-repositorio-en-github.md).
+Si no lo tienen, pueden ver la guía de [cómo clonar un repositorio](/guias/3_clonando-un-repositorio-en-github.md) o la de [cómo crear un repositorio](/guias/2_creando-un-repositorio-en-github.md).
 
 ## Pasos: Modificar un archivo
 

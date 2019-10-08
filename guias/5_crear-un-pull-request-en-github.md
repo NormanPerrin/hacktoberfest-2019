@@ -18,7 +18,7 @@ Quizás tengan que seguir ciertas reglas para nombrar cambios, o [crear una rama
 
 ### 2) [Clonar el repositorio](/guias/3_clonando-un-repositorio-en-github.md)
 
-### 3) [Hacer un cambio](/guias/haciendo-cambios-en-github.md)
+### 3) [Hacer un cambio](/guias/4_haciendo-cambios-en-github.md)
 
 Una vez que llegamos a confirmar un cambio en el repositorio que tenemos en nuestra cuenta, podemos hacer la contribución, comparando nuestro repositorio que tiene el cambio, con el repositorio original.
 

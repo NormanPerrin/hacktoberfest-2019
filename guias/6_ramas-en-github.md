@@ -28,7 +28,7 @@ Ahora si se fijan, en la selección se muestra otra rama, la que recién crearon
 
 ![Verificando rama creada en GitHub](/recursos/nueva-rama-creada.png)
 
-### 3) [Hacer un cambio](/guias/4_haciendo-un-cambio-en-github.md)
+### 3) [Hacer un cambio](/guias/4_haciendo-cambios-en-github.md)
 
 Es importante saber dónde estamos parados antes de hacer un cambio, ya que el cambio que hagamos solo va a tener efecto en la rama donde estemos posicionados.
 
