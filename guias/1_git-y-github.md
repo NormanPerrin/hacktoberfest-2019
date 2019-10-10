@@ -26,7 +26,7 @@ Es el repositorio que se usa como referente de todas las copias, al que se le su
 
 Al trabajar cada uno localmente, para avisar de cambios a otras personas, todos suben sus cambios a un repositorio **central**, de esta forma, solo hay que tener conocimiento del repositorio central, y no de todas las otras copias que pueda haber.
 
-Actualmente hay algunas plataformas, como GitHub, la cual nos permite crear estosrepositorios.
+Actualmente hay algunas plataformas, como GitHub, la cual nos permite crear estos repositorios.
 
 ### Repositorio local
 
