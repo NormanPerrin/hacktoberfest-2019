@@ -37,7 +37,9 @@ Si no sos principiante es una buena oportunidad para participar y ayudar a los q
 Es necesario una notebook para la práctica, pero si no tenés no te preocupes, nosotros tenemos algunas para repartir, aunque de ser posible traé la tuya.
 
 - Cuenta en [GitHub](http://github.com).
-- Git instalado en una [terminal de comandos]()
+- Git instalado en una terminal de comandos
   - [Windows](https://gitforwindows.org/).
   - [Linux](https://git-scm.com/download/linux).
   - [MacOS](https://git-scm.com/download/mac).
+  
+## [Evento Eventbrite](https://www.eventbrite.com.ar/e/hacktoberfest-en-comunidad-it-tickets-76250498293)
