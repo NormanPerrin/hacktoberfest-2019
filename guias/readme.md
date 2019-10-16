@@ -12,3 +12,12 @@
 ## Desde la consola, con git
 
 - [Guía introducción a Git y GitHub](https://github.com/NormanPerrin/introduccion-a-git-y-github).
+
+## Otras guías
+
+- [git - la guía sencilla](https://rogerdudler.github.io/git-guide/index.es.html)
+- [Ada IT](https://github.com/Ada-IT/bootcamp-frontend/tree/master/01_git)
+
+## Extras
+
+- [Markdown](https://guides.github.com/features/mastering-markdown/)
