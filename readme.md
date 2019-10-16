@@ -32,6 +32,8 @@ Si no sos principiante es una buena oportunidad para participar y ayudar a los q
 - [16:10 - 18:40] Hack time! empezando a contribuir.
 - [18:40 - 19:00] Cierre y premios.
 
+## [Evento Eventbrite](https://www.eventbrite.com.ar/e/hacktoberfest-en-comunidad-it-tickets-76250498293)
+
 ## Requerimientos previos
 
 Es necesario una notebook para la práctica, pero si no tenés no te preocupes, nosotros tenemos algunas para repartir, aunque de ser posible traé la tuya.
@@ -41,5 +43,9 @@ Es necesario una notebook para la práctica, pero si no tenés no te preocupes, 
   - [Windows](https://gitforwindows.org/).
   - [Linux](https://git-scm.com/download/linux).
   - [MacOS](https://git-scm.com/download/mac).
-  
-## [Evento Eventbrite](https://www.eventbrite.com.ar/e/hacktoberfest-en-comunidad-it-tickets-76250498293)
+ 
+## Mentores
+
+- [Norman Perrin](https://github.com/normanperrin)
+
+## [Código de conducta](https://docs.google.com/document/d/1gFKOhyUqMZzrZcbq8A_TpO5x9J9HK6agv70awCH8pyI)
