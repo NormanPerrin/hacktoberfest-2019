@@ -6,6 +6,7 @@
 - [Este repositorio](https://github.com/NormanPerrin/hacktoberfest-2019/issues)
 - [Guía introducción a Git y GitHub](https://github.com/NormanPerrin/introduccion-a-git-y-github/issues)
 - [React Native versioned_docs](https://github.com/facebook/react-native-website/issues/1338)
+- [Primera contribución](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.es.md)
 - ?
 
 ## Proyectos:
