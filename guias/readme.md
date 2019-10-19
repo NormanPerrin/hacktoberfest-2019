@@ -15,6 +15,7 @@
 
 ## Otras guías
 
+- [Primera contribución](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.es.md)
 - [git - la guía sencilla](https://rogerdudler.github.io/git-guide/index.es.html)
 - [Ada IT](https://github.com/Ada-IT/bootcamp-frontend/tree/master/01_git)
 
