@@ -12,13 +12,14 @@ Podemos hacer un seguimiento de nuestros cambios en el proyecto, sabiendo quién
 
 Funcionamiento GitHub:
 
-![Funcionamiento GitHub](/recursos/github-flow.png)
+![Funcionamiento GitHub](/recursos/github-flow-2.png)
 
-Para empezar, podemos definir a un **repositorio** como un directorio, puede contener archivos y otros directorios.
+Los repositorios de Github están conformados por el nombre de usuario y el nombre del repositorio, en la imagen se puede apreciar un repositorio de github llamado **usergithub/proyecto-ejemplo** en la cual el proyecto llamado **proyecto-ejemplo** es propiedad del usuario **usergithub**.
 
-En esta imagen, podemos ver que Norman, Mariana y Josefina tienen una copia de un mismo repositorio en sus computadoras (también podrían hacerse una copia en su cuenta de GitHub).
+En esta imagen, podemos ver que Norman, Mariana y Josefina tienen una copia de un mismo repositorio en sus computadoras (también podrían hacerse una copia en su cuenta de GitHub, llamado también **fork**).
 
-Una vez copiado el repositorio a su cuenta o computadora, pueden modificar el contenido del mismo como quieran. Luego, pueden subir los cambios que hayan hecho al repositorio original, para que las otras personas trabajando en ese proyecto puedan acceder de una forma fácil a los cambios.
+Una vez copiado el repositorio a su cuenta o computadora, pueden modificar el contenido del mismo como quieran. Luego, pueden subir los cambios que hayan hecho al repositorio original (commit y push), para que las otras personas trabajando en ese proyecto puedan acceder de una forma fácil a los cambios.
+
 
 ### Repositorio remoto
 
