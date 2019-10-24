@@ -26,7 +26,21 @@ En la misma pueden cambiar el nombre del archivo y editar su contenido.
 
 Le tenemos que agregar un mensaje al cambio que acabamos de hacer.
 
-Lo mejor es elegir un nombre, a modo de título, que describa lo que hicimos.
+Estas son algunas de las que se pueden usar:
+
+feat: Una nueva caracteristica.
+
+fix: Se soluciono un bug.
+
+docs: Se realizaron cambios en la documentacion.
+
+style: Se aplico formato, comas y puntos faltantes, etc; Sin cambios en el codigo.
+
+refactor: Refactorizacion del codigo en produccion.
+
+test: Se añadieron pruebas, refactorizacion de pruebas; Sin cambios en el codigo.
+
+chore: Actualizacion de tareas de build, configuracion del admin. de paquetes; Sin cambios en el codigo.
 
 Si scrollean para abajo se van a encontrar con esta pantalla.
 
