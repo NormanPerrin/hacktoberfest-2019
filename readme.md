@@ -48,5 +48,6 @@ Es necesario una notebook para la práctica, pero si no tenés no te preocupes, 
 
 - [Norman Perrin](https://github.com/normanperrin)
 - [Matías Dumrauf](https://github.com/mdumrauf)
+- [Valeria Gonzalez](https://github.com/valeriagonzalez)
 
 ## [Código de conducta](https://docs.google.com/document/d/1gFKOhyUqMZzrZcbq8A_TpO5x9J9HK6agv70awCH8pyI)
