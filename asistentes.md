@@ -1,3 +1,4 @@
 # Asistentes
 
-Walter Gabriel Romero
+- Matias Dumrauf
+- Walter Gabriel Romero
