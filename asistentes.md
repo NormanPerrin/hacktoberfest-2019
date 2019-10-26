@@ -1,3 +1,5 @@
 # Asistentes
 
-Anthony Arce.
+- Anthony Arce.
+- Matias Dumrauf
+
