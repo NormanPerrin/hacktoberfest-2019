@@ -1,5 +1,20 @@
 # Asistentes
 
+- Anthony Arce.
 - Matias Dumrauf
-Yanina Leiva
-
+- Yanina Leiva
+- Liz Neira
+- Luciano Fernandez
+- Alejandro Acosta
+- Eduardo Maticorena
+- Matias Edorna
+- Daniel Argañaraz
+- Fernando Diaz
+- Tomas Basile
+- Gauna Camila
+- David Hilu
+- Alejandro Martinez
+- Mariano Avila
+- Maximiliano Blanco
+- Yazmin Araoz
+- Walter Gabriel Romero
