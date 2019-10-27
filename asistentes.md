@@ -1,5 +1,6 @@
 # Asistentes
 
+- Anthony Arce.
 - Matias Dumrauf
 - Eduardo Maticorena
 - Matias Edorna
