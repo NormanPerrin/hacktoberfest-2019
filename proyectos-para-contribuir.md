@@ -17,6 +17,9 @@
 - [No Gluten](https://github.com/malerey/No-Gluten)
 - [Página Free Code Camp BA](https://github.com/FreeCodeCampBA/freecodecampba.github.io/issues)
 - [Emoji DIV](https://github.com/kimberrypi/emojidiv)
+- [Contentz](https://github.com/contentz-tech)
+- [Network Analysis scripts en Python](https://github.com/2Max4/Network_Analysis)
+- [RGB Html](https://github.com/saurabhagarwal8/RGB)
 - ? (si conocés otro podés hacer un Pull Request)
 
 ## [Buscar #hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+no%3Aassignee+is%3Aissue&type=Issues)
