@@ -2,6 +2,7 @@
 
 - Anthony Arce.
 - Matias Dumrauf
+- Celia Huamani
 - Yanina Leiva
 - Liz Neira
 - Luciano Fernandez
