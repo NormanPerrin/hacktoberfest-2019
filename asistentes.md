@@ -2,6 +2,7 @@
 
 - Anthony Arce.
 - Matias Dumrauf
+- Yanina Leiva
 - Liz Neira
 - Luciano Fernandez
 - Alejandro Acosta
