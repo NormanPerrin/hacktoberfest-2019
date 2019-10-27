@@ -1,6 +1,7 @@
 # Asistentes
 
 - Matias Dumrauf
+- Daniel Argañaraz
 - Fernando Diaz
 - Tomas Basile
 - Gauna Camila
