@@ -2,6 +2,7 @@
 
 - Anthony Arce.
 - Matias Dumrauf
+- Liz Neira
 - Luciano Fernandez
 - Alejandro Acosta
 - Eduardo Maticorena
