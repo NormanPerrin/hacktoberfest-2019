@@ -1,6 +1,7 @@
 # Asistentes
 
 - Matias Dumrauf
+- Tomas Basile
 - Gauna Camila
 - David Hilu
 - Alejandro Martinez
