@@ -1,6 +1,7 @@
 # Asistentes
 
 - Matias Dumrauf
+- David Hilu
 - Alejandro Martinez
 - Mariano Avila
 - Maximiliano Blanco
