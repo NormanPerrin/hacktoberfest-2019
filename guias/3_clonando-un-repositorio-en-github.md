@@ -1,6 +1,6 @@
 # Clonando un repositorio en GitHub
 
-Si queremos modificar el contenido de un repositorio de otro usuario, no podemos hacerlo directamente. Tendrías que clonarnos su repositorio a nuestra cuenta, así desde nuestra cuenta estamos autorizados a hacerle cambios.
+Si queremos modificar el contenido de un repositorio de otro usuario, no podemos hacerlo directamente. Tendríamos que clonarnos su repositorio a nuestra cuenta, así desde nuestra cuenta estamos autorizados a hacerle cambios.
 
 Al clonar un repositorio, vamos a tener una copia del repositorio público que elijamos en nuestra cuenta de GitHub.
 
